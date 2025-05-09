@@ -164,6 +164,14 @@ jobs:
 
 ---
 
+### 🧹 Cleanup
+If you want to delete resources created during testing or setup:
+
+- Delete Docker image from ECR:
+- Delete entire ECR repository:
+- Delete IAM Role (be cautious):
+
+---
 ### 📄 License
 This project is licensed under the MIT License.
 
