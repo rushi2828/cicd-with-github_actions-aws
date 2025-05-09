@@ -23,6 +23,11 @@ Step 3: Create ECR Repository
 
 Step 4: Add Github Action Workflow
 
+Add Read and write permissions from Workflow permission
+
+![image](https://github.com/user-attachments/assets/ab4ea2bd-816f-4ca2-8aaa-a8c2d45205b8)
+
+Add Secrets and variables in Actions
 
 
 
