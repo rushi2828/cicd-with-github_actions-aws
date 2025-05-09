@@ -1,5 +1,4 @@
-# cicd-with-github_actions-aws
-Continuous Integration and Deployment with AWS and Github Actions
+# deploy-docker-image-on-ecr-with-github_actions
 
 1.1 Create an OIDC Identity Provider in AWS
 
