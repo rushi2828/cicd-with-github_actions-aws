@@ -29,6 +29,9 @@ Add Read and write permissions from Workflow permission
 
 Add Secrets and variables in Actions
 
+![image](https://github.com/user-attachments/assets/783faac0-6f95-41be-920c-2c12cb6b4827)
+
+
 
 
 
