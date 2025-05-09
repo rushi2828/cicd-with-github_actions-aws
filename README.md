@@ -17,6 +17,15 @@ sts.amazonaws.com
 
 ![image](https://github.com/user-attachments/assets/2badad5e-a424-46ac-b091-c05b6faf6356)
 
+Step 3: Create ECR Repository
+
+![image](https://github.com/user-attachments/assets/9c383c11-f020-4a09-aced-f3fb340969f4)
+
+Step 4: Add Github Action Workflow
+
+
+
+
 
 
 
