@@ -19,7 +19,7 @@ jobs:
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v3
         with:
-          role-to-assume: arn:aws:iam::302263053017:role/pipeline
+          role-to-assume: arn:aws:iam::730335489670:role/EC2_Power_Role
           role-session-name: GitHubActions
           aws-region: us-west-2
           audience: sts.amazonaws.com  
