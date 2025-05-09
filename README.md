@@ -6,6 +6,7 @@ This repository demonstrates how to automatically build and deploy Docker images
 
 ## 📦 Project Structure
 
+```
 ├── .github/
 │ └── workflows/
 │ └── deploy.yml # GitHub Actions workflow
@@ -13,8 +14,7 @@ This repository demonstrates how to automatically build and deploy Docker images
 ├── app.py # Your Python/Flask app (example)
 ├── requirements.txt # Python dependencies
 └── README.md # This file
-
-
+```
 ---
 
 ## ✅ Features
