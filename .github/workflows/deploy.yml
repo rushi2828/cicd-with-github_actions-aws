@@ -43,7 +43,7 @@ jobs:
             --function-name ${{ vars.LAMBDA_FUNCTION_NAME }} \
             --package-type Image \
             --code ImageUri=730335489670.dkr.ecr.us-west-2.amazonaws.com/cicd-demo:20250509185149 \
-            --role arn:aws:iam::730335489670:role/LambdaBasicExecutionRole \
+            --role arn:aws:iam::730335489670:role/EC2_Power_Role \
             --region us-west-2
 
       - name: Enable Lambda Function URL
