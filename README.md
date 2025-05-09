@@ -17,13 +17,12 @@ sts.amazonaws.com
 
 ![image](https://github.com/user-attachments/assets/2badad5e-a424-46ac-b091-c05b6faf6356)
 
+![image](https://github.com/user-attachments/assets/3ce2c31f-c824-42ec-895a-d55648c1d085)
+
+
 Step 3: Create ECR Repository
 
 ![image](https://github.com/user-attachments/assets/9c383c11-f020-4a09-aced-f3fb340969f4)
-
-Create a lambda function
-
-![image](https://github.com/user-attachments/assets/d6fa47eb-4670-4273-9ae2-51b57e664173)
 
 
 Step 4: Add Github Action Workflow
