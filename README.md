@@ -21,6 +21,11 @@ Step 3: Create ECR Repository
 
 ![image](https://github.com/user-attachments/assets/9c383c11-f020-4a09-aced-f3fb340969f4)
 
+Create a lambda function
+
+![image](https://github.com/user-attachments/assets/d6fa47eb-4670-4273-9ae2-51b57e664173)
+
+
 Step 4: Add Github Action Workflow
 
 Add Read and write permissions from Workflow permission
